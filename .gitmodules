@@ -1,0 +1,4 @@
+[submodule "projeto-web-eventos"]
+	path = projeto-web-eventos
+	url = https://github.com/Igorgx/Projeto-Web-Eventos.git
+	branch = main
